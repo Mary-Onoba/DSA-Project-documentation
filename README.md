@@ -34,8 +34,8 @@ Use pivot tables and calculated columns where necessary to answer the following:
 - Merged all pivot tables into one dashbboard.
 
 ## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/865187e9-5a7a-4f89-a223-1d3613123d6e)
 
-![Dashboard](https://github.com/user-attachments/assets/90d66195-d62d-44e2-bd51-a0c9d44a307f)
 
 ## Key Insights from the Amazon Product Review Analysis
 ### Discount Strategies
