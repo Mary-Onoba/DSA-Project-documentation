@@ -26,7 +26,7 @@ Use pivot tables and calculated columns where necessary to answer the following:
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
-- Dashboard interaction <a href="https://
+- Dashboard interaction <a href="https://github.com/Mary-Onoba/DSA-Project-documentation/blob/main/Dashboard.png"> view Dashboard</a>
 ## Process
 - Verify data for any missing values and anomalies and sort them out.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
